@@ -21,7 +21,7 @@ CompanyName = ''
 Copyright = '(c) 2016.'
 
 # Description of the functionality provided by this module
-# Description = ''
+Description = 'Powershell DSC Resource to create a shortcut'
 
 # Minimum version of the Windows PowerShell engine required by this module
 PowerShellVersion = '5.0'
